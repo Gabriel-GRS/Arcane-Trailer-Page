@@ -1,7 +1,7 @@
 # Arcane
 
 <h1>
-    <img src="./src/assets/Site-finalizado.PNG">
+    <img src="./src/assets/Site-finalizado.png">
 </h1>
 
 ## Build Setup
